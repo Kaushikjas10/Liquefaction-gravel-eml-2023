@@ -1,7 +1,7 @@
 # Liquefaction-gravel-eml-2023
 This repository is for explainable/interpretable model to assess gravelly soil liquefaction potential. The DPT-Vs database used to developed the model. This model is developed by using LightGBM and SHAP.
 
-This repository contains these files: processed dataset, Model B, SHAP explainer, and a csv file containing IPs of test sites. 
+This repository contains these files: processed dataset, Model A, SHAP explainer, and a csv file containing IPs of test sites. 
 This repository is part of the below project.
 
 Jas, K., Dodagoudar, G.R., Forthcoming. Explainable probabilistic machine learning model for liquefaction potential assessment of gravelly soils using LightGBM-SHAP. 
