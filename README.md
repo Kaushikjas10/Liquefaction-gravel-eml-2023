@@ -22,7 +22,7 @@ Program language: Python 3.7; MATLAB R2022b
 
 Dowloadable link of source code: https://github.com/Kaushikjas10/Liquefaction-gravel-eml-2023.git 
 
-# File descriptions
+# File descriptions (Beta version)
 
 (1) [Processed dataset]: It is available with the article in the supplymentary material at "Appendix A".
 
