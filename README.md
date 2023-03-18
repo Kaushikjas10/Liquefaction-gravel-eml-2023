@@ -26,7 +26,8 @@ Dowloadable link of source code: https://github.com/Kaushikjas10/Liquefaction-gr
 
 (1) [Processed dataset]: It is available with the article in the supplymentary material at "Appendix A".
 
-(2) [MODEL_KJGRD.txt]: This file can be loaded in the Python platform to predict the liquefaction potential assessment for site(s) of interest having all IPs in a excel/csv spreadsheet.
+(2) [MODEL_A_KJGRD.txt]: This model-A file can be loaded in the Python platform to predict the liquefaction potential assessment for site(s) of interest having all IPs in a excel/csv spreadsheet.
 
 (3) [TestSitesGravel.csv]: This is the  spreadsheet templates of the test sites where you want to assess liquefaction potential of gravelly soils using the developed model.
-(4) [Implement_Gravel_MODEL_v0.0.ipynb]: This python script is provided to give a demonstration for using this model. 
+
+(4) [Implement_Gravel_MODEL_v0.1_CAGEO.ipynb]: This python script is provided to give a demonstration for using this model. 
