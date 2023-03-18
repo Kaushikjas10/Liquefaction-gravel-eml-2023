@@ -30,4 +30,4 @@ Dowloadable link of source code: https://github.com/Kaushikjas10/Liquefaction-gr
 
 (3) [TestSitesGravel.csv]: This is the  spreadsheet templates of the test sites where you want to assess liquefaction potential of gravelly soils using the developed model.
 
-(4) [Implement_Gravel_MODEL_v0.1_CAGEO.ipynb]: This python script is provided to give a demonstration for using this model. 
+(4) [Implement_Gravel_MODEL_v0.1_CAGEO.ipynb]: This python script is provided to give a demonstration for using this model in the jupyter notebook platform. 
