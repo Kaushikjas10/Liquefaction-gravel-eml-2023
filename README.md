@@ -1,20 +1,20 @@
 # Liquefaction-gravel-eml-2023
-This repository is for explainable/interpretable model to assess gravelly soil liquefaction potential. The DPT-Vs database used to developed the model. This model is developed by using LightGBM and SHAP.
+This repository is for explainable/interpretable model to assess gravelly soil liquefaction potential. The DPT-Vs database is used to develop the model. This model is developed by using LightGBM and SHAP.
 
-This repository contains these files: processed dataset, Model A, SHAP explainer, and a csv file containing IPs of test sites. 
+This repository contains these files: processed dataset, a csv file containing IPs of test sites, and a python script. 
 This repository is part of the below project.
 
-Jas, K., Dodagoudar, G.R., Forthcoming. Explainable probabilistic machine learning model for liquefaction potential assessment of gravelly soils using LightGBM-SHAP. 
+# Article name:  ****
 
-# Computer Code Availability
+# Data and Code Availability Statement
 
-Name of the code: Gravel_EML_KJGRD_23.
+Name of the code: Gravel_EML_KJSMGRD_23.
 
 Developer name: Kaushik Jas. 
 
 Contact address: Department of Civil Engineering, Indian Institute of Technology Madras, Chennai, Tamil Nadu 600036, India.
 
-Email: kaushik.jas.2013@gmail.com. 
+Email: ce19d202@smail.iitm.ac.in. 
 
 First available year: 2023
 
@@ -24,10 +24,10 @@ Downloadable link of source code: https://github.com/Kaushikjas10/Liquefaction-g
 
 # File descriptions (Beta version)
 
-(1) [Processed dataset]: It is available with the article in the supplymentary material at "Appendix A".
+(1) [Processed dataset]: It is available with the article in the supplemental material at "Appendix A".
 
-(2) [MODEL_A_KJGRD.txt]: This model-A file can be loaded in the Python platform to predict the liquefaction potential assessment for site(s) of interest having all IPs in a excel/csv spreadsheet.
+(2) [TestSitesGravel.csv]: This is the  spreadsheet template of the test sites where you want to assess the liquefaction potential of gravelly soils using the developed model.
 
-(3) [TestSitesGravel.csv]: This is the  spreadsheet templates of the test sites where you want to assess liquefaction potential of gravelly soils using the developed model.
+(3) [Model_Train_Test_KJ_SM_GRD.ipynb]: This Python script is provided to give a demonstration for using this model in the jupyter notebook platform. 
 
-(4) [Implement_Gravel_MODEL_v0.1_CAGEO.ipynb]: This python script is provided to give a demonstration for using this model in the jupyter notebook platform. 
+Note: This work is under process. The final article will be available after the completion of the publication peer review process.
