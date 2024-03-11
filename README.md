@@ -4,7 +4,7 @@ This repository is for explainable/interpretable model to assess gravelly soil l
 This repository contains these files: processed dataset, a csv file containing IPs of test sites, and a python script. 
 This repository is part of the below project.
 
-# Article name:  ****
+# Article name: Evaluation and analysis of liquefaction potential of gravelly soils using explainable probabilistic machine learning model
 
 # Data and Code Availability Statement
 
