@@ -34,10 +34,16 @@ Downloadable link of source code: https://github.com/Kaushikjas10/Liquefaction-g
 
 # File descriptions (Beta version)
 
-(1) [Processed dataset]: It is available with the article in the supplemental material at "Appendix A".
+(1) [Processed dataset]: It is available with the article in the supplemental material at "Appendix A". The file is now available in this repository as file name "Jas et al. 2024_Supply_EML_Gravel_Liq_COGE.pdf".
+This is the same dataset used for the model training and testing. This same file is attached to the COMGE journal section.
 
 (2) [TestSitesGravel.csv]: This is the  spreadsheet template of the test sites where you want to assess the liquefaction potential of gravelly soils using the developed model.
 
-(3) [Model_Train_Test_KJ_SM_GRD.ipynb]: This Python script is provided to give a demonstration for using this model in the jupyter notebook platform. 
+(3) [MODEL B_Liq_KJSMGRD.json; MODEL B_Liq_KJSMGRD.txt]: These are the LightGBM model files with two different extensions. This file can be loaded in the Python platform to predict the liquefaction potential assessment of gravelly soils for site(s) of interest having all IPs in a excel spreadsheet. Also you can find the model details/parameters (Table 5) in the manuscript itself. 
 
-Note: This work is under process. The final article will be available after the completion of the publication peer review process.
+(4) [Model_Train_Test_KJ_SM_GRD.ipynb]: This Python script is provided to give a demonstration for using this model in the jupyter notebook platform.
+
+(5) Interactive online tutorial: Will be uploaded soon....................
+
+### Release notes:
+Update 26-03-2024: 1)All the necessary files are uploaded except (2) and (5). Those files will be uploaded soon..........
