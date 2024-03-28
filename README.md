@@ -39,11 +39,17 @@ This is the same dataset used for the model training and testing. This same file
 
 (2) [TestSitesGravel.csv]: This is the  spreadsheet template of the test sites where you want to assess the liquefaction potential of gravelly soils using the developed model.
 
-(3) [MODEL B_Liq_KJSMGRD.json; MODEL B_Liq_KJSMGRD.txt]: These are the LightGBM model files with two different extensions. This file can be loaded in the Python platform to predict the liquefaction potential assessment of gravelly soils for site(s) of interest having all IPs in a excel spreadsheet. Also you can find the model details/parameters (Table 5) in the manuscript itself. 
+(3) [MODEL_B_KJSMGRD_Gravel_COMGE_1.0.json; MODEL_B_KJSMGRD_Gravel_COMGE_1.0.txt]: These are the LightGBM model files with two different extensions. This file can be loaded in the Python platform to predict the liquefaction potential assessment of gravelly soils for site(s) of interest having all IPs in a excel spreadsheet. Also you can find the model details/parameters (Table 5) in the manuscript itself. 
 
-(4) [Model_Train_Test_KJ_SM_GRD.ipynb]: This Python script is provided to give a demonstration for using this model in the jupyter notebook platform.
+(4) [Model_Train_Test_KJ_SM_GRD.ipynb]: This Python script is provided to give a demonstration of the LightGBM model training and testing in the Jupyter notebook platform.
 
-(5) Interactive online tutorial: Will be uploaded soon....................
+(5) [Implement_Gravel_MODEL_v0.2_KJSMGRD_COMGE.ipynb]: This Python script is provided to give a hands-on demonstration of using the developed/trained DPT Vs-based model in the Jupyter Notebook platform.
 
-### Release notes:
-Update 26-03-2024: 1)All the necessary files are uploaded except (2) and (5). Those files will be uploaded soon..........
+(6) Interactive online tutorial: Will be uploaded soon....................
+
+## Release notes:
+### Update 26-03-2024: 
+1)All the necessary files are uploaded except (2) and (5). Those files will be uploaded soon..........
+
+### Update 28-03-2024:
+The file number (5) is uploaded to this repository. See the "Implement_Gravel_MODEL_v0.2_KJSMGRD_COMGE.ipynb".
