@@ -52,4 +52,4 @@ This is the same dataset used for the model training and testing. This same file
 1)All the necessary files are uploaded except (2) and (5). Those files will be uploaded soon..........
 
 ### Update 28-03-2024:
-The file number (5) is uploaded to this repository. See the "Implement_Gravel_MODEL_v0.2_KJSMGRD_COMGE.ipynb".
+The file number (2) and (5) are uploaded to this repository. See the "Implement_Gravel_MODEL_v0.2_KJSMGRD_COMGE.ipynb". The interactive online tutorial will be uploaded soon.
