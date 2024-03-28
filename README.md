@@ -39,7 +39,7 @@ This is the same dataset used for the model training and testing. This same file
 
 (2) [TestSitesGravel.csv]: This is the  spreadsheet template of the test sites where you want to assess the liquefaction potential of gravelly soils using the developed model.
 
-(3) [MODEL_B_KJSMGRD_Gravel_COMGE_1.0.json; MODEL_B_KJSMGRD_Gravel_COMGE_1.0.txt]: These are the LightGBM model files with two different extensions. This file can be loaded in the Python platform to predict the liquefaction potential assessment of gravelly soils for site(s) of interest having all IPs in a excel spreadsheet. Also you can find the model details/parameters (Table 5) in the manuscript itself. 
+(3) [MODEL_A_KJSMGRD_Gravel_COMGE.json; MODEL_A_KJSMGRD_Gravel_COMGE.txt]: These are the LightGBM model files (Initial trial) with two different extensions. This file can be loaded in the Python platform to predict the liquefaction potential assessment of gravelly soils for site(s) of interest having all IPs in an excel spreadsheet. Also you can find the model details/parameters (Table 5) in the manuscript itself. The final/best trial (MODEL_B_KJSMGRD_Gravel_COMGE_1.0.txt) will be uploaded soon.
 
 (4) [Model_Train_Test_KJ_SM_GRD.ipynb]: This Python script is provided to give a demonstration of the LightGBM model training and testing in the Jupyter notebook platform.
 
