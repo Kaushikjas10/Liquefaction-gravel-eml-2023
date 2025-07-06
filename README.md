@@ -53,3 +53,5 @@ This is the same dataset used for the model training and testing. This same file
 
 ### Update 28-03-2024:
 The file number (2) and (5) are uploaded to this repository. See the "Implement_Gravel_MODEL_v0.2_KJSMGRD_COMGE.ipynb". The interactive online tutorial will be uploaded soon.
+## Update 06-07-2025:
+I have demonstrated the implementation of developed ML models for liquefaction potential assessment of soils in this YouTube video: https://youtu.be/WpOuqLEf5I0?si=-J8wzkP9PkgLch8M.
